@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\home\\floyd\\Android\\AndroidStudioProjects\\LudoGame\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_game.xml",
+        "source": "C:\\home\\floyd\\Android\\AndroidStudioProjects\\LudoGame\\app\\src\\main\\res\\layout\\activity_game.xml"
+    },
+    {
+        "merged": "C:\\home\\floyd\\Android\\AndroidStudioProjects\\LudoGame\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_player_select.xml",
+        "source": "C:\\home\\floyd\\Android\\AndroidStudioProjects\\LudoGame\\app\\src\\main\\res\\layout\\activity_player_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhanuesh\\StudioProjects\\Ludo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_game_over_yellow.xml",
+        "source": "C:\\Users\\Dhanuesh\\StudioProjects\\Ludo\\app\\src\\main\\res\\layout\\activity_game_over_yellow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhanuesh\\StudioProjects\\Ludo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash_screen.xml",
+        "source": "C:\\Users\\Dhanuesh\\StudioProjects\\Ludo\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\home\\floyd\\Android\\AndroidStudioProjects\\LudoGame\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_game_over_red.xml",
+        "source": "C:\\home\\floyd\\Android\\AndroidStudioProjects\\LudoGame\\app\\src\\main\\res\\layout\\activity_game_over_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhanuesh\\StudioProjects\\Ludo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_game_over_blue.xml",
+        "source": "C:\\Users\\Dhanuesh\\StudioProjects\\Ludo\\app\\src\\main\\res\\layout\\activity_game_over_blue.xml"
+    },
+    {
+        "merged": "C:\\home\\floyd\\Android\\AndroidStudioProjects\\LudoGame\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_game_over_yellow.xml",
+        "source": "C:\\home\\floyd\\Android\\AndroidStudioProjects\\LudoGame\\app\\src\\main\\res\\layout\\activity_game_over_yellow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhanuesh\\StudioProjects\\Ludo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_game.xml",
+        "source": "C:\\Users\\Dhanuesh\\StudioProjects\\Ludo\\app\\src\\main\\res\\layout\\activity_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhanuesh\\StudioProjects\\Ludo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_player_select.xml",
+        "source": "C:\\Users\\Dhanuesh\\StudioProjects\\Ludo\\app\\src\\main\\res\\layout\\activity_player_select.xml"
+    },
+    {
+        "merged": "C:\\home\\floyd\\Android\\AndroidStudioProjects\\LudoGame\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_game_over_green.xml",
+        "source": "C:\\home\\floyd\\Android\\AndroidStudioProjects\\LudoGame\\app\\src\\main\\res\\layout\\activity_game_over_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhanuesh\\StudioProjects\\Ludo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_game_over_green.xml",
+        "source": "C:\\Users\\Dhanuesh\\StudioProjects\\Ludo\\app\\src\\main\\res\\layout\\activity_game_over_green.xml"
+    },
+    {
+        "merged": "C:\\home\\floyd\\Android\\AndroidStudioProjects\\LudoGame\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash_screen.xml",
+        "source": "C:\\home\\floyd\\Android\\AndroidStudioProjects\\LudoGame\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhanuesh\\StudioProjects\\Ludo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_game_over_red.xml",
+        "source": "C:\\Users\\Dhanuesh\\StudioProjects\\Ludo\\app\\src\\main\\res\\layout\\activity_game_over_red.xml"
+    },
+    {
+        "merged": "C:\\home\\floyd\\Android\\AndroidStudioProjects\\LudoGame\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_game_over_blue.xml",
+        "source": "C:\\home\\floyd\\Android\\AndroidStudioProjects\\LudoGame\\app\\src\\main\\res\\layout\\activity_game_over_blue.xml"
+    }
+]
