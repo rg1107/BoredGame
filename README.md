@@ -17,3 +17,5 @@ Android Studio Must be Installed
 6. Run the App which will then get installec in your phone.
 
 If you cant follow steps 3-6 then you can use an Emulator which is present in Android Studio
+Or..
+### You can Install the app-debug.apk file on your phone directly to run the app on your phone. 
