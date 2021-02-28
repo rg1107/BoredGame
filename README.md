@@ -1,6 +1,13 @@
 # BoredGame
+Its a game of Ludo which is made just for fun
 
-How To Run This app:
+## Tech Stack
+Android SDK
+
+## Dependencies
+Android Studio Must be Installed
+
+## How To Run This app:
 
 1. Clone this repository
 2. Open this project in Android Studio
